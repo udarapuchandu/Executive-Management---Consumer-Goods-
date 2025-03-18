@@ -1,4 +1,4 @@
-# Executive-Management---Consumer-Goods
+# Executive-Management-Consumer-Goods
 
 🌟 Problem Statement 🌟 Atliq Hardware, a top computer hardware manufacturer in India and beyond, faces challenges in making quick, data-driven decisions. To strengthen their data analytics team, Tony Sharma, Head of Data Analytics, has designed a SQL challenge to evaluate candidates' technical and communication skills.
 
